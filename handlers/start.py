@@ -14,17 +14,13 @@ I am Calls Music, an open-source bot that lets you play music in your groups.
 Use the buttons below to know more about me.""",
         reply_markup=InlineKeyboardMarkup(
             [
+                
                 [
                     InlineKeyboardButton(
-                        "⚒ Source code", url="https://t.me/CallsMusic"
-                    )
-                ],
-                [
-                    InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/callsmusicchat"
+                        "💬 Official Group", url="https://t.me/joinchat/-0hwIaaSTAgzOTg1"
                     ),
                     InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/callsmusic"
+                        "My owner 👤", url="https://t.me/naitikraj3101"
                     )
                 ]
             ]
