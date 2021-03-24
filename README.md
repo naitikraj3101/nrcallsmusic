@@ -38,6 +38,8 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 [Click here](https://github.com/naitikraj3101/callsmusicheroku/)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/naitikraj3101/callsmusic-1Heroku/)
+
 ## License
 
 ### GNU Affero General Public License v3.0
